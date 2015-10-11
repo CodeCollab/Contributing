@@ -21,7 +21,7 @@ Also changes with regards to the PSR coding standards:
 - Property names MUST be declared in camelCase
 - Non property variable names MUST be declared in camelCase
 - All files MUST have declared strict types
-- De strict type declaration MUST be on the first lines in a file with a space between the PHP open tag and the declaration
+- The strict type declaration MUST be on the first lines in a file with a space between the PHP open tag and the declaration
 - Method arguments MUST be type hinted (including for scalar types)
 - Abstract classes MUST NOT have an `Abstract` prefix
 - Interfaces MUST NOT have an `Interface` suffix
@@ -45,7 +45,7 @@ This project has unit tests for most code. When adding a new feature or when fix
 
 ### Code style
 
-Always use the codings standards as deinfed in [this topic][coding-standards].
+Always use the codings standards as defined under [Coding standards][coding-standards].
 
 ## Licensing
 
