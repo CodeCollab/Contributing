@@ -39,6 +39,7 @@ If you would like to see a feature or you have found a bug please open on GitHub
 - If your changes are not up to date - rebase your branch on master
 - Make sure all commits are meaningful. If there are several commits for fixes for a specific feature please squash them.
 - Follow the conventions used in the project
+- PR's are not looked at until they have a test for them
 
 ### Unit tests
 
