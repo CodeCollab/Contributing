@@ -58,3 +58,4 @@ Copies of all licenses are included in this project's root directory.
 [psr2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 [psr4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md
 [coding-standards]: https://github.com/CodeCollab/Contributing/blob/master/CONTRIBUTING.md#coding-standards
+[amendments]: https://github.com/CodeCollab/Contributing/blob/master/CONTRIBUTING.md#amendments
