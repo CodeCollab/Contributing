@@ -29,7 +29,7 @@ Also changes with regards to the PSR coding standards:
 
 ## Feature requests or bug reports
 
-If you would like to see a feature or you have found a bug please open on GitHub on the repository of the specific project.
+If you have a feature request or think you have found a bug, please open an issue on the appropriate GitHub repository of the specific project.
 
 ## Contributing code
 
